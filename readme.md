@@ -1,5 +1,5 @@
 
-Running With maven
+---Running With maven
 
 Checkout from git
 
@@ -9,7 +9,7 @@ The application can be accessed at http://localhost:8080/user/accreditation
 
 
 
-Running With Docker
+----Running With Docker
 
 mvn spring-boot:build-image
 
