@@ -11,7 +11,7 @@ The application can be accessed at http://localhost:8080/user/accreditation
 
 ----Running With Docker
 
-mvn spring-boot:build-image
+./mvnw spring-boot:build-image
 
 docker run -it -p8080:8080 demo:0.0.1-SNAPSHOT
 
